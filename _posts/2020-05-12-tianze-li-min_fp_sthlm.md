@@ -4,12 +4,11 @@ title: "Min favouritplats i Stockholm"
 date: 2020-05-12
 ---
 
-## Min favouritplats i Stockholm
-Min favouritplats i Stockholm är en höjd på [Hammarbyhöjdens fritidsträdgårdar][link of map], som är en skidort i vinter också. Det är i staden, men inte i mitten, därför kan du åka på cykel.
+Min favouritplats i Stockholm är en höjd på [Hammarbyhöjdens fritidsträdgårdar][link of map], som är en skidort i vinter också. Det är i staden, men inte i mitten, därför kan du åka på cykel. Självklart kan du tar tunnelbanna men inte bussen.
 
+Jag ofta går tär med min vänner och på kvällen. Eftersom det skulle vara solnedgången, som är jätter fin. Många vänner har varit där med mig, även på födelsedagen. Vi druckit öl och låg på gräset. Du kan också åka en mountainbike där eller springa. . Dess alla sidor är vackra, vad kul! På östra sidan finns en stor skog och en mycket trevlig granne i norra. 
 
-
-
+Det kan vara kallt eller blåsigt på kvällen. Så du kan bära mer trasa eller ta mer mat. I sommar, soluppgången är inte lång efter solnedgången, då kan du stanna på toppen hela natten, men jag försökte inte.
 
 
 
