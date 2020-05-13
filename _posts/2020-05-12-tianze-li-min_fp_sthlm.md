@@ -4,11 +4,11 @@ title: "Min favouritplats i Stockholm"
 date: 2020-05-12
 ---
 
-Min favouritplats i Stockholm är [en höjd på Hammarby][link of map], som är en skidort i vinter också. Det är i staden, men inte i mitten, därför kan du cykel till där. Självklart kan du åka tunnelbanna men inte bussen.
+Min favouritplats i Stockholm är [en höjd på Hammarby][link of map], som är en skidort i vinter också. Det ligger i staden, men inte i mitten("not central"), därför kan du("kan du") cykla till där. Självklart kan du("du kan .."") åka tunnelbanna men inte bussen.
 
-Jag ofta går tär med min vänner och ofta på kvällarna. Det skulle vara solnedgången, som är jätter fin. Vi låg på gräset och druckit öl ibland. Du kan också åka mountainbike där eller springa. Dess alla sidor är vackra, vad kul! På östra sidan finns en stor skog och en mycket trevlig granne i norra. 
+Jag ofta går tär med mina vänner och ofta på kvällarna. Det("There") skulle vara solnedgången, som är jätter fin. Vi låg på gräset och druckit öl ibland. Du kan också åka mountainbike där eller springa. Dess alla sidor är vackra, vad kul! På östra sidan finns en stor skog och en mycket trevlig granne i norra. 
 
-Det kan vara kallt eller blåsigt på kvällen. Så du kan bära mer trasa eller ta mer mat. I sommar, då kan du stanna på toppen hela natten, men jag försökte inte.
+Det kan vara kallt eller blåsigt på kvällen. Så du kan ta mer trasa eller ta mer mat. I sommar, då kan du stanna på toppen hela natten, men jag prova inte det.
 
 <!-- ![view on top][link of map] -->
 
