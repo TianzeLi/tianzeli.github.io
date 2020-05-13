@@ -4,7 +4,7 @@ title: "Min favouritplats i Stockholm"
 date: 2020-05-12
 ---
 
-Min favouritplats i Stockholm är en höjd på [Hammarby][link of map], som är en skidort i vinter också. Det är i staden, men inte i mitten, därför kan du cykel till där. Självklart kan du åka tunnelbanna men inte bussen.
+Min favouritplats i Stockholm är [en höjd på Hammarby][link of map], som är en skidort i vinter också. Det är i staden, men inte i mitten, därför kan du cykel till där. Självklart kan du åka tunnelbanna men inte bussen.
 
 Jag ofta går tär med min vänner och ofta på kvällarna. Det skulle vara solnedgången, som är jätter fin. Vi låg på gräset och druckit öl ibland. Du kan också åka mountainbike där eller springa. Dess alla sidor är vackra, vad kul! På östra sidan finns en stor skog och en mycket trevlig granne i norra. 
 
