@@ -2,7 +2,6 @@
 layout: post
 title: "Min favouritplats i Stockholm"
 date: 2020-05-12
-comment_issue_id: 2
 ---
 
 Min favouritplats i Stockholm är [en höjd på Hammarby][link of map], som är en skidort i vinter också. Det ligger i staden, men inte i mitten("not central"), därför kan du("kan du") cykla till där. Självklart kan du("du kan .."") åka tunnelbanna men inte bussen.
