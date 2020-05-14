@@ -2,17 +2,10 @@
 layout: default
 comment_issue_id: 2
 ---
-<html>
-<body>
-	<h1>{{ page.title }}</h1>
-	<p class="meta">{{ page.date | date_to_string }}</p>
 
-	<div class="post">
-	  {{ content }}
-	</div>
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
-	<script src="/js/jquery.min.js"></script>
-	{% include comments.html element=".post-content" github_account="jhvanderschee/jekyllcodex" require_cookie_consent="true" %}
-
-</body>
-</html>
+<div class="post">
+  {{ content }}
+</div>
