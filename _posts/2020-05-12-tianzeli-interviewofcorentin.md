@@ -4,25 +4,25 @@ title: "Min favouritplats i Stockholm"
 date: 2020-05-17
 ---
 
-##Questions:
+###Questions:
 
-	1. _Hur är läget?_  
-	2. _Varifrån kommer du?_  
-	3. _Var bor du?_  
-	3. _Vad gör du i Sverige?_  
-	4. _Var pluggade du?_  
-	5. _Vad talar du för språk?_  
-	6. _Är du gift?_  
-	7. _Vad är din favourifärg?_  
-	8. _Vad gör du i kväll?_  
-	9. _Har du lust att äta middag imorgon kväll?_  
-	10. _När äte du för middagen?_  
-	11. _Vad tycker du om för filmer?_  
-	12. _Gillar du musik?_  
+1. _Hur är läget?_  
+2. _Varifrån kommer du?_  
+3. _Var bor du?_  
+3. _Vad gör du i Sverige?_  
+4. _Var pluggade du?_  
+5. _Vad talar du för språk?_  
+6. _Är du gift?_  
+7. _Vad är din favourifärg?_  
+8. _Vad gör du i kväll?_  
+9. _Har du lust att äta middag imorgon kväll?_  
+10. _När äte du för middagen?_  
+11. _Vad tycker du om för filmer?_  
+12. _Gillar du musik?_  
 
 
 
-## Summary
+### Summary
 	
 	Corentin är min van. Han kommer från Frankrike, därför han är inte Svensk, men han kan prata Svenska på B2 nivå. Han talar Franska, Engelska, och lite Kinesisk också för språk. Han bor på Malvinas väg, som är inne campus. Han läste Robitics på École centrale de Nantes och Kungliga Tekniska högskolan nu. Snart tar han examen. Han söker jobb och doktorand på robotics i Spanien och England. Han är gift inte. 
 
