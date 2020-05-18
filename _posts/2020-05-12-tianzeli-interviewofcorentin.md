@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Min favouritplats i Stockholm"
+title: "En intervju med en "svensk"
 date: 2020-05-17
 ---
 
